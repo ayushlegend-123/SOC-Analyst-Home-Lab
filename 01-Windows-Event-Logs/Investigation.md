@@ -23,7 +23,7 @@ The SOC team investigated Windows Security Logs to verify authentication events.
 ### Splunk Query
 
 ```spl
-index=wineventlog EventCode=4624
+index=main EventCode=4624
 ```
 
 ### Findings
@@ -53,7 +53,7 @@ User successfully authenticated to the Windows workstation.
 ### Splunk Query
 
 ```spl
-index=wineventlog EventCode=4625
+index=main EventCode=4625
 ```
 
 ### Findings

@@ -23,7 +23,7 @@
 ## Splunk Index
 
 ```
-index=wineventlog
+index=main
 ```
 
 ---

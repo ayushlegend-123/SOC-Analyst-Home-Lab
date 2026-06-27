@@ -41,7 +41,7 @@ Investigate the following Windows events:
 ## Splunk Index
 
 ```
-index=wineventlog
+index=main
 ```
 
 ---
